@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Darren, Now I am learning Github to put some previous work and try to create some projects to learn more stuff.
+
+😶‍🌫️
+
 <!--
 **mjteh/mjteh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
